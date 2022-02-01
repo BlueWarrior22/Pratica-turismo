@@ -1,0 +1,9 @@
+img{
+    width: 400px;
+}
+.container{
+    max-width: 900px;
+}
+#navbar-custom{
+background-color: rgb(215, 198, 221) !important;
+}
